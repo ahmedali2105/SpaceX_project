@@ -70,4 +70,4 @@ if st.button("Predict Launch Success"):
 
 # Footer
 st.markdown("---")
-st.markdown("Developed by Zafir Abdullah | Powered by Machine Learning")
+st.markdown("Developed by Syed Ahmed Ali | Powered by Machine Learning")
